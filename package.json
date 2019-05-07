@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0",
+    "mint-ui": "^2.2.13"
+  },
+  "devDependencies": {
+    "less": "^3.9.0"
+  }
+}
